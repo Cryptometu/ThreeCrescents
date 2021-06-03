@@ -1,2 +1,2 @@
-# TreeCrescents
+# ThreeCrescents
 Üç Hilal
